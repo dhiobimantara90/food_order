@@ -83,7 +83,7 @@ flutter:
     #- images/
     - assets/
     - images/
-    - Images/
+    # - Images/
     - assets/Delivery.gif
     
   #   - images/a_dot_ham.jpeg
